@@ -3,6 +3,7 @@ let num1 = 10;
 let num2 = 5;
 let operator = "+";
 let result;
+//let message
 
 switch (operator) {
     case "+":
